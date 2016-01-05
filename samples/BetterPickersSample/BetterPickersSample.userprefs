@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="BetterPickersSample/BetterPickersSample.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.403_15_ARM_GPS" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BetterPickersSample/MainActivity.cs">
+    <Files>
+      <File FileName="BetterPickersSample/MainActivity.cs" Line="22" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

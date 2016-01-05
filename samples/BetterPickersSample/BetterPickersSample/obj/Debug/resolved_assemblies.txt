@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\betterpickers-1.6.0.0\samples\BetterPickersSample\BetterPickersSample\obj\Debug\assemblies\BetterPickersSample.dll
+C:\Users\Administrator\Desktop\betterpickers-1.6.0.0\samples\BetterPickersSample\BetterPickersSample\obj\Debug\assemblies\AndroidSwitchBackport.dll
+C:\Users\Administrator\Desktop\betterpickers-1.6.0.0\samples\BetterPickersSample\BetterPickersSample\obj\Debug\assemblies\BetterPickers.dll
+C:\Users\Administrator\Desktop\betterpickers-1.6.0.0\samples\BetterPickersSample\BetterPickersSample\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\Administrator\Desktop\betterpickers-1.6.0.0\samples\BetterPickersSample\BetterPickersSample\obj\Debug\assemblies\mscorlib.dll
+C:\Users\Administrator\Desktop\betterpickers-1.6.0.0\samples\BetterPickersSample\BetterPickersSample\obj\Debug\assemblies\System.Core.dll
+C:\Users\Administrator\Desktop\betterpickers-1.6.0.0\samples\BetterPickersSample\BetterPickersSample\obj\Debug\assemblies\System.dll
+C:\Users\Administrator\Desktop\betterpickers-1.6.0.0\samples\BetterPickersSample\BetterPickersSample\obj\Debug\assemblies\System.Xml.dll
+C:\Users\Administrator\Desktop\betterpickers-1.6.0.0\samples\BetterPickersSample\BetterPickersSample\obj\Debug\assemblies\Xamarin.Android.Support.v4.dll
+C:\Users\Administrator\Desktop\betterpickers-1.6.0.0\samples\BetterPickersSample\BetterPickersSample\obj\Debug\assemblies\System.Runtime.Serialization.dll
+C:\Users\Administrator\Desktop\betterpickers-1.6.0.0\samples\BetterPickersSample\BetterPickersSample\obj\Debug\assemblies\System.ServiceModel.Internals.dll
